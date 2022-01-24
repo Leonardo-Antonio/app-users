@@ -1,0 +1,6 @@
+![HOME](info/home.jpg)
+![DRAWER](info/drawe.jpg)
+![LIST](info/list.jpg)
+![DETAILS](info/detail.jpg)
+![SEND MAIL](info/sendMail.jpg)
+![FORM](info/form.jpg)
